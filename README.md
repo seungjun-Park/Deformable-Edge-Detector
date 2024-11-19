@@ -1,5 +1,6 @@
 # Deformable-Sketch(Edge)-Detection-Network
-Sketch detection network by using deformable convolution. 
+Sketch detection network with deformable convolution. 
+When the input image is given, then model outs it's sketch(edge) version.
 
 ## Test Envrionment  
 - NVIDIA A5000 24G
