@@ -1,4 +1,4 @@
-# Deformable-Edge-Detector
+# Deformable-Sketch(Edge)-Detector
 Toy project that example model of deformable convolution nd
 
 ## Test Envrionment  
