@@ -10,8 +10,9 @@ I use my custom sketch dataset insted general benchmark datasets.
 
 ## Results  
 ### Aru(BlueArchive)    
-![0bea28087016b57f31978e164ceca03e493bd27b](https://github.com/user-attachments/assets/962461be-15fa-4d0c-aad7-dc70f8bd7060)
-![0bea28087016b57f31978e164ceca03e493bd27b png](https://github.com/user-attachments/assets/7b6f612b-6dfa-4aaa-b4fe-f68767bbf7ff)  
+![0bea28087016b57f31978e164ceca03e493bd27b](https://github.com/user-attachments/assets/8ec04b2c-8eea-4748-9ea3-a9b2ac763f8b)
+![0bea28087016b57f31978e164ceca03e493bd27b png](https://github.com/user-attachments/assets/c513aa9a-b504-4ad5-9d9b-144092494c4a)
+
 
 ### Shiroko(BlueArchive)  
 ### Wakamo(BlueArchive)  
