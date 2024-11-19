@@ -1,10 +1,11 @@
-# Deformable-Sketch(Edge)-Detector
+# Deformable-Sketch(Edge)-Detector-Network
 Toy project that example model of deformable convolution nd
 
 ## Test Envrionment  
 - NVIDIA A5000 24G
-- 1600 x 1600 image(maximum)
-- Modeol params: 9.0M
+- 512 x 512 image
+- Modeol params: 6.2M
 
-## Results
+## Results(resize 768)
+
 
