@@ -1,4 +1,4 @@
-name: neural-graphics
+name: dsdn
 channels:
   - pytorch
   - nvidia
