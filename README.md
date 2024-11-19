@@ -1,4 +1,4 @@
-# Deformable-Sketch(Edge)-Detector-Network
+# Deformable-Sketch(Edge)-Detection-Network
 Sketch detection network by using deformable convolution. 
 
 ## Test Envrionment  
