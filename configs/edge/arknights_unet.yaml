@@ -1,0 +1,123 @@
+module:
+  target: models.enet.enet.EDNSE
+  params:
+    lr: 2e-5
+    weight_decay: 0.0
+    lr_decay_epoch: 100
+    use_fp16: False
+    log_interval: 50
+    net_config:
+      target: modules.blocks.UNet
+      params:
+        in_channels: 3
+        in_res: 512
+        window_size: 8
+        out_channels: 1
+        embed_dim: 32
+        hidden_dims: [ 64, 128, 128, 256, 256 ]
+        num_blocks: 1
+        num_heads: 8
+        num_head_channels: -1
+        dropout: 0.0
+        attn_dropout: 0.0
+        drop_path: 0.1
+        qkv_bias: True
+        proj_bias: True
+        mlp_ratio: 4.0
+        num_groups: 32
+        act: 'gelu'
+        use_conv: True
+        pool_type: 'conv'
+        mode: 'conv'
+        dim: 2
+        use_checkpoint: True
+        attn_types: ['dswin-v2', 'dswin-v2', 'dswin-v2', 'da', 'da']
+
+    loss_config:
+      target: modules.loss.edge_perceptual.EdgeLPIPSWithDiscriminator
+      params:
+        disc_start: 2000
+        disc_factor: 1.0
+        disc_weight: 0.1
+        perceptual_weight: 2.0
+        disc_config:
+          in_channels: 3
+          in_res: 512
+          embed_dim: 32
+          quant_dim: 512
+          hidden_dims: [ 64, 128, 256, 256, 512]
+          num_blocks: 1
+          window_size: 8
+          patch_size: 4
+          num_heads: 8
+          num_head_channels: -1
+          dropout: 0.0
+          attn_dropout: 0.0
+          drop_path: 0.0
+          qkv_bias: True
+          bias: True
+          mlp_ratio: 2.0
+          act: 'gelu'
+          num_groups: 32
+          pool_type: 'conv'
+          dim: 2
+          use_conv: True
+          use_checkpoint: True
+          attn_mode: 'cosine'
+data:
+  target: modules.datasets.util.DataModuleFromConfig
+  params:
+    num_workers: 4
+    batch_size: 2
+    wrap: True
+    train:
+      target: modules.datasets.arknights.ArknightsDataset
+      params:
+        root: '/local_datasets/anime'
+        train: True
+        size: 512
+        scale: [ 0.95, 1.0 ]
+        ratio: [ 1.0, 1.0 ]
+        color_space: 'rgb'
+
+#    validation:
+#      target: modules.datasets.arknights.ArknightsDataset
+#      params:
+#        root: './datasets/anime'
+#        train: False
+#        size: 256
+#        scale: [ 0.95, 1.0 ]
+#        ratio: [ 1.0, 1.0 ]
+#        color_space: 'rgb'
+
+logger:
+  target: pytorch_lightning.loggers.tensorboard.TensorBoardLogger
+  params:
+    save_dir: './logs'
+    name: 'ednse'
+    version: 'arknights_unet'
+
+
+checkpoints:
+  latest_checkpoints:
+    target: pytorch_lightning.callbacks.ModelCheckpoint
+    params:
+      dirpath: './checkpoints/ednse/arknights_unet'
+      filename: 'ednse'
+      monitor: 'step'
+      mode: 'max'
+      save_top_k: 1
+
+  best_checkpoint:
+    target: pytorch_lightning.callbacks.ModelCheckpoint
+    params:
+      dirpath: './checkpoints/ednse/arknights_unet'
+      filename: 'ednse_best'
+      monitor: 'train/total_loss'
+      mode: 'min'
+      save_top_k: 1
+
+trainer:
+  accelerator: 'gpu'
+  max_epochs: 500
+  accumulate_grad_batches: 25

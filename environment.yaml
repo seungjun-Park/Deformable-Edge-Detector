@@ -1,0 +1,34 @@
+name: neural-graphics
+channels:
+  - pytorch
+  - nvidia
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.1.0
+  - torchvision=0.16.0
+  - torchaudio=2.1.0
+  - pytorch-cuda=11.8
+  - numpy=1.26.4
+  - pip:
+      - huggingface
+      - einops
+      - matplotlib
+      - opencv-python
+      - pudb
+      - imageio
+      - imageio-ffmpeg
+      - pytorch-lightning==2.0.0
+      - tensorboard
+      - protobuf==4.25
+      - omegaconf
+      - einops
+      - torch-fidelity
+      - transformers
+      - configargparse
+      - lmdb
+      - timm
+      - ninja
+      # - -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
