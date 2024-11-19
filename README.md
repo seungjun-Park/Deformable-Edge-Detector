@@ -35,7 +35,7 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
   
 ### Surtr(Arknights)   
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/76957745-744d-4071-ab93-7d77d7077127)
-![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/e8779627-762f-4b78-a945-608f0c4c0913)  
+![6b7bb28262eebebffeb3941db1258c0f5366a7b3 png](https://github.com/user-attachments/assets/b5252b6c-0651-4f0d-b98e-f96ce5d6fb2c)  
 ![5a165acbcb8ef52378282b515b24e9c277740ebf](https://github.com/user-attachments/assets/1f4e42c4-d726-449c-a60e-fcec7d04ef77)
 ![5a165acbcb8ef52378282b515b24e9c277740ebf png](https://github.com/user-attachments/assets/c258ecf7-7407-497c-b368-c788097a0099)  
 ![fcede69367108db9f91019b5ff0f8792656d2bc7](https://github.com/user-attachments/assets/2d9a84ce-20b9-4182-96da-f3e3253c0618)
