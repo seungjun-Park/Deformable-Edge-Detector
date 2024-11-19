@@ -34,8 +34,20 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
 ![d84a452d25ac20b9cccdac007cc5f12ea349ba85 png](https://github.com/user-attachments/assets/231dbc25-2ee9-48b0-a88d-e479c322ce62)  
   
 ### Surtr(Arknights)   
-  
+![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/76957745-744d-4071-ab93-7d77d7077127)
+![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/e8779627-762f-4b78-a945-608f0c4c0913)  
+![5a165acbcb8ef52378282b515b24e9c277740ebf](https://github.com/user-attachments/assets/1f4e42c4-d726-449c-a60e-fcec7d04ef77)
+![5a165acbcb8ef52378282b515b24e9c277740ebf png](https://github.com/user-attachments/assets/c258ecf7-7407-497c-b368-c788097a0099)  
+![fcede69367108db9f91019b5ff0f8792656d2bc7](https://github.com/user-attachments/assets/2d9a84ce-20b9-4182-96da-f3e3253c0618)
+![fcede69367108db9f91019b5ff0f8792656d2bc7 png](https://github.com/user-attachments/assets/6f67c64b-af10-4efd-84ad-c7c2c6ef5126)  
+    
 ### Amiya(Arknights)    
+![c08049bd745098b0869968caf059811fff9eb567](https://github.com/user-attachments/assets/0ba35a66-8409-4c63-ad31-d82a887168ae)
+![c08049bd745098b0869968caf059811fff9eb567 png](https://github.com/user-attachments/assets/b24eb798-d771-4bfa-999c-71bff0b1a354)   
+![fbd362241e3e84b52ccd40f70d627fcc9b5dbdd1](https://github.com/user-attachments/assets/9abe97ea-14f9-49fe-bb5e-3d73f5a38db5)
+![fbd362241e3e84b52ccd40f70d627fcc9b5dbdd1 png](https://github.com/user-attachments/assets/c6936ede-0c1c-4ff7-b460-b01f68427599)   
+![ffdc6bef27d1243e6aef64116429421a22591219](https://github.com/user-attachments/assets/f9c36442-0359-46ab-887b-00b116f27536)
+![ffdc6bef27d1243e6aef64116429421a22591219 png](https://github.com/user-attachments/assets/cbe0d2e2-b89c-4105-8abd-309bbc21f00f)   
   
 ### Theresa(Arknights)  
 ![ad6114c4155a7cd5ea4dca11554b787e325e1801](https://github.com/user-attachments/assets/33de9448-f037-4377-9126-bf31f715ab21)
