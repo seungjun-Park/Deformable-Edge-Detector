@@ -4,7 +4,6 @@ import torch.nn.functional as F
 from typing import Union, List, Tuple, Dict
 from torch.fft import rfftn, ifftn
 
-from modules.sequential import AttentionSequential
 from utils import conv_nd
 
 

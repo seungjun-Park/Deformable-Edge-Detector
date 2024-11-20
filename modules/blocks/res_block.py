@@ -6,7 +6,7 @@ from timm.models.layers import DropPath
 import math
 
 from typing import Union, List, Tuple
-from utils import get_act, conv_nd, group_norm, to_2tuple, zero_module, freq_mask, to_ntuple
+from utils import get_act, conv_nd, group_norm, to_2tuple, zero_module, to_ntuple
 from modules.blocks.deform_conv import deform_conv_nd
 
 

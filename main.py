@@ -18,7 +18,6 @@ from pytorch_lightning.trainer import Trainer
 import matplotlib.pyplot as plt
 
 from utils.util import instantiate_from_config
-from models.classification.transformer import SwinTransformer
 
 
 class GradientNormCallback(pl.Callback):
