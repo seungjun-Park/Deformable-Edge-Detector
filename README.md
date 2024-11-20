@@ -16,7 +16,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ## Performance  
 
 |Metric|ODS|OIS|LPIPS(edge)|LPIPS(image)|
-|---|---|---|---|---|
+|------|---|---|---|---|
 |UAED|||||
 |MuGE|||||
 |DSDN|||||
