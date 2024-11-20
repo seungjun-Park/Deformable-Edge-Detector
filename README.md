@@ -15,11 +15,11 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 
 ## Performance  
 
-|Metric|ODS|OIS|LPIPS(edge)|LPIPS(image)|
+|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
-|UAED|||||
-|MuGE|||||
-|DSDN|||||
+|UAED|||0.6500|0.5286|
+|MuGE|||0.6830|0.5465|
+|DSDN|||0.7735|0.6323|
   
 
 ## Results  
