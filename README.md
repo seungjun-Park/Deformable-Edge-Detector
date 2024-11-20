@@ -26,9 +26,9 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ### BSDS500  
 |Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
-|UAED(pretrained by BSDS)|||0.6500|0.5286|
-|MuGE(pretrained by BSDS, α = 1.0)|||0.6830|0.5465|
-|DSDN(Anime)|||**0.7735**|**0.6323**|
+|UAED(pretrained by BSDS)|||0.6519|0.3352|
+|MuGE(pretrained by BSDS, α = 1.0)|||**0.6899**|0.3403|
+|DSDN(Anime)|||0.5301|**0.4022**|
   
 ## Results  
 ### Aru(BlueArchive)    
