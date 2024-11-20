@@ -66,12 +66,31 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ## Benchmark(BSDS500)  
 ### BSDS500
 #### Humans or Animals  
-- poor performance about humans or animals detection.(Noise sensitive & too many detect detail informations)  
+- poor performance about humans or animals detection.(Noise sensitive & too many detect detail informations)
 
+![376086](https://github.com/user-attachments/assets/09f15643-7f76-41db-a481-560d74fbf68b)  
+![376086_uaed](https://github.com/user-attachments/assets/6425c971-c049-4207-b48a-e68209e31496)
+![376086_muge](https://github.com/user-attachments/assets/0f269459-ef75-4001-81b0-989c7c67b799)
+![376086_sdn](https://github.com/user-attachments/assets/a2428427-512f-4160-b14e-e85767489ac7)  
+
+![198087](https://github.com/user-attachments/assets/163b9ebf-c316-4364-b687-46dd2a198b19)  
+![198087_uaed](https://github.com/user-attachments/assets/8c6b69b5-1b2e-48a0-a7c2-4eaf12eb2283)
+![198087_muge](https://github.com/user-attachments/assets/3d025bb1-8410-4315-b8d6-75862b2aba6a)
+![198087_sdn](https://github.com/user-attachments/assets/116afba2-0057-4b0e-ba31-8cc5f4131e9a)  
+  
 #### Structures  
 - good performance about structures than humans or animals detection.
 
-
+![48017](https://github.com/user-attachments/assets/dd2b796c-3334-4ef7-8767-35c2572cfad1)  
+![48017_uaed](https://github.com/user-attachments/assets/55cc365d-5704-460b-8e61-426099ec881b)
+![48017_muge](https://github.com/user-attachments/assets/9238407e-7d2c-4ce9-bd9b-b01656cc0d5e)
+![48017_sdn](https://github.com/user-attachments/assets/8b04bd09-14e2-4282-bb1b-38efd0afddfc)  
+  
+![120093](https://github.com/user-attachments/assets/10ed690e-5b4b-4317-863a-f50e7dae755c)  
+![120093_uaed](https://github.com/user-attachments/assets/9fec9b9a-494b-455b-9b98-04110460c124)
+![120093_muge](https://github.com/user-attachments/assets/f28f8ec3-7396-4d19-830c-f3256fb62dd1)
+![120093_sdn](https://github.com/user-attachments/assets/1fc4eca6-69c1-4fd5-88c9-f961c64f3938)  
+  
 #### Pictures(like above examples)  
 - good performance about pictures than sota edge detection networks.
   
