@@ -19,7 +19,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 |Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
 |UAED(pretrained by BSDS)|||0.6500|0.5286|
-|MuGE(pretrained by BSDS)|||0.6830|0.5465|
+|MuGE(pretrained by BSDS, \alpha = 1.0)|||0.6830|0.5465|
 |DSDN(Anime)|||**0.7735**|**0.6323**|
   
 ### Anime  
