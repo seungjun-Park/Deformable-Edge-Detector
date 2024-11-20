@@ -59,5 +59,8 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
   
 ## Benchmark(BSDS500)  
 ### BSDS500
-### BIPEDv2
-### Multicue
+#### Humans or Animals  
+- poor performance about humans or animals detection.(Noise sensitive & too many detect detail informations)  
+
+#### Structures  
+- good performance about structures than humans or animals detection.  
