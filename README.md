@@ -67,8 +67,8 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
 
 
 #### Pictures(like above examples)  
-- good performance about pictures than sota edge detection networks.
-![ffdc6bef27d1243e6aef64116429421a22591219](https://github.com/user-attachments/assets/35458590-bc4a-4f42-b426-fb5b29496baa)
+- good performance about pictures than sota edge detection networks.  
+![ffdc6bef27d1243e6aef64116429421a22591219](https://github.com/user-attachments/assets/35458590-bc4a-4f42-b426-fb5b29496baa)  
 ![ffdc6bef27d1243e6aef64116429421a22591219_uaed](https://github.com/user-attachments/assets/5d50b735-681c-4fe2-a4f2-eb3c4355e5f4)
 ![ffdc6bef27d1243e6aef64116429421a22591219_muge](https://github.com/user-attachments/assets/1d981002-c607-4b4f-bd39-817f1f910bfa)
 ![ffdc6bef27d1243e6aef64116429421a22591219 png](https://github.com/user-attachments/assets/905d9acb-9e7f-47f8-8055-feaa06119dea)  
