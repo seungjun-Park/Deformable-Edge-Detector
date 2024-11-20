@@ -16,15 +16,15 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ## Performance  
 
 ### Anime
-|Model|ODS-F↑|OIS-F↑|LPIPS(edge)↑|LPIPS(image)↑|
+|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
-|UAED(pretrained by BSDS)|||0.6500|0.5286|
-|MuGE(pretrained by BSDS, α = 1.0)|||0.6830|0.5465|
-|DSDN(Anime)|||**0.7735**|**0.6323**|
+|UAED(pretrained by BSDS)|0.5890|0.5919|0.6500|0.5286|
+|MuGE(pretrained by BSDS, α = 1.0)|0.6193|0.6231|0.6830|0.5465|
+|DSDN(Anime)|**0.6777**|**0.6837**|**0.7735**|**0.6323**|
 
 
 ### BSDS500  
-|Model|ODS-F↑|OIS-F↑|LPIPS(edge)↑|LPIPS(image)↑|
+|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
 |UAED(pretrained by BSDS)|||0.6500|0.5286|
 |MuGE(pretrained by BSDS, α = 1.0)|||0.6830|0.5465|
