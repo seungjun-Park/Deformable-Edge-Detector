@@ -15,11 +15,12 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 
 ## Performance  
 
+### Anime
 |Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
 |UAED|||0.6500|0.5286|
 |MuGE|||0.6830|0.5465|
-|DSDN|||0.7735|0.6323|
+|DSDN|||**0.7735**|**0.6323**|
   
 
 ## Results  
