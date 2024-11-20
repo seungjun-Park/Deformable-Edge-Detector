@@ -68,8 +68,16 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
 
 #### Pictures(like above examples)  
 - good performance about pictures than sota edge detection networks.  
-![ffdc6bef27d1243e6aef64116429421a22591219](https://github.com/user-attachments/assets/35458590-bc4a-4f42-b426-fb5b29496baa)  
-![ffdc6bef27d1243e6aef64116429421a22591219_uaed](https://github.com/user-attachments/assets/5d50b735-681c-4fe2-a4f2-eb3c4355e5f4)
-![ffdc6bef27d1243e6aef64116429421a22591219_muge](https://github.com/user-attachments/assets/1d981002-c607-4b4f-bd39-817f1f910bfa)
-![ffdc6bef27d1243e6aef64116429421a22591219 png](https://github.com/user-attachments/assets/905d9acb-9e7f-47f8-8055-feaa06119dea)  
+![ffdc6bef27d1243e6aef64116429421a22591219](https://github.com/user-attachments/assets/79c5964c-ad02-423a-8646-5545a965f6ce)  
+![ffdc6bef27d1243e6aef64116429421a22591219_uaed](https://github.com/user-attachments/assets/e281b152-3201-4332-a63f-92b479da7306)
+![ffdc6bef27d1243e6aef64116429421a22591219_muge](https://github.com/user-attachments/assets/354b943d-cd30-4747-8f7a-56086f94c2d5)
+![ffdc6bef27d1243e6aef64116429421a22591219 png](https://github.com/user-attachments/assets/60860e77-aa81-4b97-8dc3-4d85125faac6)
+  
+![fcede69367108db9f91019b5ff0f8792656d2bc7](https://github.com/user-attachments/assets/d12166cd-c58d-4966-8793-6afbbba9beda)  
+![fcede69367108db9f91019b5ff0f8792656d2bc7_uaed](https://github.com/user-attachments/assets/83fc5324-7bcd-4b57-9b85-fd3667cd1caf)
+![fcede69367108db9f91019b5ff0f8792656d2bc7_muge](https://github.com/user-attachments/assets/aa82fc15-462c-41a0-a1d7-1d0147a0c3df)
+![fcede69367108db9f91019b5ff0f8792656d2bc7 png](https://github.com/user-attachments/assets/840c00c1-44c0-4f0c-9e8d-88e2b756d1e8)  
+  
+
+
 
