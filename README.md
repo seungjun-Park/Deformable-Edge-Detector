@@ -6,7 +6,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ## Test Envrionment  
 - NVIDIA A5000 24G
 - Train 512 x 512 image
-- Modeol params: 6.2M
+- Model params: 6.2M
 
 ## Dataset  
 [Anime] Dataset (included nude pictures)  
