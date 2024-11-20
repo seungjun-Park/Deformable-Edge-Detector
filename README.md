@@ -9,7 +9,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 - Modeol params: 6.2M
 
 ## Dataset  
-[Anime] Dataset(include nude picture)  
+[Anime] Dataset(include nude pictures)  
 - train: 131 images, edges  
 - val: 10 images, edges  
 
