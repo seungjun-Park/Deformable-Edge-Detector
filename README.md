@@ -8,6 +8,9 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
 - Train 512 x 512 image
 - Modeol params: 6.2M
 
+## Performance  
+  
+
 ## Results  
 ### Aru(BlueArchive)    
 ![0bea28087016b57f31978e164ceca03e493bd27b](https://github.com/user-attachments/assets/9d054eef-6cb1-4f49-b6b2-7dd99a208cc8)
