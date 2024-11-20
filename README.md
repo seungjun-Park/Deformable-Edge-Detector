@@ -114,7 +114,6 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 - good performance about pictures than sota edge detection networks.
   
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/3faf75b7-00a6-449d-adfb-a3f2fe0a215d)  
-![subject](6b7bb28262eebebffeb3941db1258c0f5366a7b3)
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3_uaed](https://github.com/user-attachments/assets/09399a9c-1d35-4950-8091-16f787abfa7c)
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3_muge](https://github.com/user-attachments/assets/13ecf6a3-4464-4370-bc15-58fa9b3aa922)
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3 png](https://github.com/user-attachments/assets/8f3d6b53-765d-41ed-bb9f-8240c1e51b3c)  
