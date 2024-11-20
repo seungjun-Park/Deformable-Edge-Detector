@@ -18,11 +18,24 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ### Anime
 |Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
-|UAED(pretrained BSDS)|||0.6500|0.5286|
-|MuGE(pretrained BSDS)|||0.6830|0.5465|
+|UAED(pretrained by BSDS)|||0.6500|0.5286|
+|MuGE(pretrained by BSDS)|||0.6830|0.5465|
 |DSDN(Anime)|||**0.7735**|**0.6323**|
   
-
+### Anime  
+|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
+|------|---|---|---|---|
+|UAED(Anime)|||0.6500|0.5286|
+|MuGE(Anime)|||0.6830|0.5465|
+|DSDN(Anime)|||**0.7735**|**0.6323**|
+  
+### BSDS500  
+|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
+|------|---|---|---|---|
+|UAED(pretrained by BSDS)|||0.6500|0.5286|
+|MuGE(pretrained by BSDS)|||0.6830|0.5465|
+|DSDN(Anime)|||**0.7735**|**0.6323**|
+  
 ## Results  
 ### Aru(BlueArchive)    
 ![0bea28087016b57f31978e164ceca03e493bd27b](https://github.com/user-attachments/assets/9d054eef-6cb1-4f49-b6b2-7dd99a208cc8)
