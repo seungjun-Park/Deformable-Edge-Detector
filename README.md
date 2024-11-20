@@ -10,7 +10,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 
 ## Dataset  
 [Anime] Dataset (included nude pictures)  
-- train: 131 images, edges  
+- train: 120 images, edges  
 - val: 10 images, edges  
 
 ## Performance  
