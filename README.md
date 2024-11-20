@@ -18,9 +18,9 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ### Anime
 |Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
-|UAED(pretrained by BSDS)|0.5890|0.5919|0.6500|0.5286|
-|MuGE(pretrained by BSDS, α = 1.0)|0.6193|0.6231|0.6830|0.5465|
-|DSDN(Anime)|**0.6777**|**0.6837**|**0.7735**|**0.6323**|
+|UAED(pretrained by BSDS)|0.5417|0.5502|0.6500|0.5286|
+|MuGE(pretrained by BSDS, α = 1.0)|0.5502|0.5721|0.6830|0.5465|
+|DSDN(Anime)|**0.6340**|**0.6389**|**0.7735**|**0.6323**|
 
 
 ### BSDS500  
@@ -28,7 +28,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 |------|---|---|---|---|
 |UAED(pretrained by BSDS)|0.8410|0.8470|0.6519|0.3352|
 |MuGE(pretrained by BSDS, α = 1.0)|**0.850**|**0.8560**|**0.6899**|0.3403|
-|DSDN(Anime)|||0.5301|**0.4022**|
+|DSDN(Anime)|0.7354|0.7354|0.5301|**0.4022**|
   
 ## Results  
 ### Aru(BlueArchive)    
@@ -112,6 +112,8 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 - good performance about pictures than sota edge detection networks.
   
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3](https://github.com/user-attachments/assets/3faf75b7-00a6-449d-adfb-a3f2fe0a215d)  
+![subject](6b7bb28262eebebffeb3941db1258c0f5366a7b3)
+*제목*  
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3_uaed](https://github.com/user-attachments/assets/09399a9c-1d35-4950-8091-16f787abfa7c)
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3_muge](https://github.com/user-attachments/assets/13ecf6a3-4464-4370-bc15-58fa9b3aa922)
 ![6b7bb28262eebebffeb3941db1258c0f5366a7b3 png](https://github.com/user-attachments/assets/8f3d6b53-765d-41ed-bb9f-8240c1e51b3c)  
