@@ -64,9 +64,6 @@ I use my custom sketch(edge) dataset instead general benchmark datasets.
 
 #### Structures  
 - good performance about structures than humans or animals detection.
-![120093](https://github.com/user-attachments/assets/9d786de3-6f49-48c1-ae81-15dffc6820c3)
-![120093](https://github.com/user-attachments/assets/5355b5fc-3a7e-4a83-ae41-084c29f9b20b)
-![120093](https://github.com/user-attachments/assets/8a59996d-981b-4f37-aff5-ffa6c9a0c656)
 
 
 #### Pictures(like above examples)  
