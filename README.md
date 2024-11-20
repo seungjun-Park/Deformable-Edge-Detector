@@ -16,7 +16,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ## Performance  
 
 ### Anime
-|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
+|Model|ODS-F↑|OIS-F↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
 |UAED(pretrained by BSDS)|||0.6500|0.5286|
 |MuGE(pretrained by BSDS, α = 1.0)|||0.6830|0.5465|
@@ -24,7 +24,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 
 
 ### BSDS500  
-|Model|ODS↑|OIS↑|LPIPS(edge)↑|LPIPS(image)↑|
+|Model|ODS-F↑|OIS-F↑|LPIPS(edge)↑|LPIPS(image)↑|
 |------|---|---|---|---|
 |UAED(pretrained by BSDS)|||0.6500|0.5286|
 |MuGE(pretrained by BSDS, α = 1.0)|||0.6830|0.5465|
