@@ -14,6 +14,11 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 - val: 10 images, edges  
 
 ## Performance  
+
+|Metric|ODS|OIS|LPIPS(edge)|LPIPS(image)|
+|UAED|||||
+|MuGE|||||
+|DSDN|||||
   
 
 ## Results  
