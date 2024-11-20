@@ -69,9 +69,9 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 - poor performance about humans or animals detection.(Noise sensitive & too many detect detail informations)
   
 ![376086](https://github.com/user-attachments/assets/ed7ec510-cc8d-4361-8974-90d2452b1593)  
-![376086_uaed](https://github.com/user-attachments/assets/b99e3abc-206b-45a4-abc4-648a9be1c621)  
-![376086_muge](https://github.com/user-attachments/assets/2e3c2079-4f05-4c09-a29c-80fd575df80a)  
-![376086_sdn](https://github.com/user-attachments/assets/e9360d86-defc-41a9-b28c-8bf90c729510)  
+![376086_uaed](https://github.com/user-attachments/assets/b99e3abc-206b-45a4-abc4-648a9be1c621)
+![376086_muge](https://github.com/user-attachments/assets/2e3c2079-4f05-4c09-a29c-80fd575df80a)
+![376086_sdn](https://github.com/user-attachments/assets/e9360d86-defc-41a9-b28c-8bf90c729510)
   
 ![198087](https://github.com/user-attachments/assets/163b9ebf-c316-4364-b687-46dd2a198b19)  
 ![198087_uaed](https://github.com/user-attachments/assets/8c6b69b5-1b2e-48a0-a7c2-4eaf12eb2283)
