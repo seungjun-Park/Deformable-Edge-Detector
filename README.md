@@ -65,7 +65,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ![f187bff62fd3eb24bb1e0a6a0ecd813451978e5a](https://github.com/user-attachments/assets/36116512-a86c-47bf-814a-3b3cb43335d0)
 ![f187bff62fd3eb24bb1e0a6a0ecd813451978e5a png](https://github.com/user-attachments/assets/cd3693ae-5e06-4c14-9b81-01505ce87193)  
   
-## Benchmark([UAED][MuGE](https://github.com/ZhouCX117/UAED_MuGE))  
+## Benchmark([UAED](https://github.com/ZhouCX117/UAED_MuGE), [MuGE](https://github.com/ZhouCX117/UAED_MuGE))  
 ### BSDS500
 #### Humans or Animals  
 - poor performance about humans or animals detection.(Noise sensitive & too many detect detail informations)
