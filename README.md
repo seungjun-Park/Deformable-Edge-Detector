@@ -109,7 +109,7 @@ I use my custom handmake sketch(edge) dataset instead general benchmark datasets
 ![120093_muge](https://github.com/user-attachments/assets/9d28099f-e7b0-4fb7-be87-562625de1abf)
 ![120093_sdn](https://github.com/user-attachments/assets/0a5a3d08-3426-4daa-91e4-2e0ef1eef289)  
 
-
+### Anime   
 #### Pictures(like above examples)  
 - good performance about pictures than sota edge detection networks.
   
